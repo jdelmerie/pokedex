@@ -1,0 +1,23 @@
+.error-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.error-actions {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.error-actions .btn {
+    margin-right: 10px;
+}
+
+.text-danger {
+    color:#1565c0 !important;
+}
+
+
+.btn-home {
+    background-color: #1565c0;
+    color: white;
+}

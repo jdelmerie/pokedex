@@ -1,0 +1,34 @@
+.pokemons {
+    margin-top: 50px;
+}
+
+.card {
+    text-align: center;
+    height: 280px;
+    transition: transform .5s ease;
+}
+
+.card-title {
+    text-align: left;
+}
+
+.id {
+    text-align: right;
+}
+
+.containertest {
+    padding: 2px 16px;
+}
+
+.active {
+    background-color: #1565c0 !important;
+}
+
+.my-pagination {
+    padding: 20px 0;
+    text-align: center;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
